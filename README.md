@@ -1,5 +1,7 @@
 # EP2: Proyecto Aplicación para mascotas
-
+Integrantes:
+- Daniela Casanova Carrasco
+- Kevin Selave Carrasco
 ## Tabla de Contenidos
 
 - [EP2.1: Implementación de Mockups UI](#ep21-implementación-de-mockups-ui)
