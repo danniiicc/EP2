@@ -29,9 +29,9 @@ Se implementó lectura de datos desde un archivo JSON, de manera local Estos dat
 
 
 ## EP2.3: Modelo de la Base de Datos
-Hemos decidido implementar sqLite debido a la dimensión del proyecto, ya que estaremos trabajando con una base de datos pequeña y sin grandes volumenes de registros.
-Además el equipo tiene experiencia trabajando con el mismo lo que facilitará la implementación.
-
+Hemos decidido implementar la base en SQLite dado a su sencilla configurarción, usabilidad y familiaridad con la misma. 
+Como es sabido sqLite no necesita un servidor de base de datos separador lo que la convierte en una gran opción para aplicaciones pequeñas sin grandes volúmenes de registros como esta. 
+Además, también es totalmente compatible con las propiedades ACID, lo que significa que es completamente seguro y puede moverse fácilmente entre sistemas al ser un archivo local.
 
 ## EP2.4: Uso de Patrones de Diseño
 Para este punto incluimos encabezados con logos intuitivos, mensajes de retroalimentación, pie de página, entre otros
